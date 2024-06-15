@@ -5,6 +5,10 @@
 
 ---
 
+🛎️ As of June 2024, a CSS-only icon font version is now available! Check it out [on the main page](https://github.com/glenthemes/aa-line-icons/blob/gh-pages/README.md).
+
+---
+
 #### ICONS LIST:
 🌿 [glenthemes.tumblr.com/icons/aa-line-icons](https://glenthemes.tumblr.com/icons/aa-line-icons) 🌿
 
