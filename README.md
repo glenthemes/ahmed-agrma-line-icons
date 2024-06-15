@@ -31,7 +31,7 @@ Choose an icon from [the list](https://aa-line-icons.gitlab.io/i/icons-list), co
 #### 🌺 HOW TO CUSTOMIZE:
 
 You can change the icon's style (e.g. size and color) like you would with any regular font:
-```
+```css
 .aa-line-icons {
     font-size: 20px;
     color: #beabea;
